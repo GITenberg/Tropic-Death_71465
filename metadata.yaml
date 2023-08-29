@@ -1,11 +1,16 @@
 _repo: Tropic-Death_71465
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71465-h/images/cover.jpg
 creator:
   author:
     agent_name: Walrond, Eric
     gutenberg_agent_id: '56255'
     url: http://www.gutenberg.org/2009/agents/56255
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71465#Tropic-Death
 gutenberg_issued: '2023-08-22'
 identifiers:
   gutenberg: '71465'
